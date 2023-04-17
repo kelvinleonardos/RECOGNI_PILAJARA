@@ -1,2 +1,2 @@
-.json
-.env
+facerecognition-61a2f-firebase-adminsdk-wi2i2-a2fdcf03d8.json
+realtime-attendance-d815d-firebase-adminsdk-z360g-1679befee6.json
